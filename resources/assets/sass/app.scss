@@ -1,0 +1,19 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+//@import "variables";
+
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+@import "~toastr/toastr.scss";
+
+.pointer-image {
+  cursor: pointer;
+  border-radius: 3px;
+}
+.float-right {
+  float: right;
+  margin-right: 15px;
+}
